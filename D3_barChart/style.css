@@ -1,0 +1,21 @@
+h2{
+  font-family: 'Roboto Slab', "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
+  color: #CB4B19;
+  font-size: 1.5em;
+  margin-bottom: .4em;
+  padding-left: 10px;
+}
+
+.highlight  {
+  color: #C64C6F;
+  font-weight: 600;
+}
+
+.item {
+  padding-left: 20px;
+}
+
+.bigger {
+  font-size: 100%;
+}
